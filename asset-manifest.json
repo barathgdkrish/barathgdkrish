@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ba9023be.css",
-    "main.js": "/static/js/main.ec2fecc5.js",
+    "main.js": "/static/js/main.3618284f.js",
     "static/media/CRBG_BIG.svg": "/static/media/CRBG_BIG.65c8ffd34a37cc5641b20801302fa5cb.svg",
     "index.html": "/index.html",
     "main.ba9023be.css.map": "/static/css/main.ba9023be.css.map",
-    "main.ec2fecc5.js.map": "/static/js/main.ec2fecc5.js.map"
+    "main.3618284f.js.map": "/static/js/main.3618284f.js.map"
   },
   "entrypoints": [
     "static/css/main.ba9023be.css",
-    "static/js/main.ec2fecc5.js"
+    "static/js/main.3618284f.js"
   ]
 }
